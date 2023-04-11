@@ -113,6 +113,25 @@ protocols used in computer environment all falls under 3 main protocol type
 3. Network protocol {OSI MODEL 1, 2, 3}
 
 
+## Open Systems Interconnection
+OSI model explains what happens in a network environment that is the process or activities that occurs when data is being transmitted.
+
+HTTP - Hypertext Transfer Protocols
+FTP - File Transfer Protocols
+SMTP - Simple Mail Transfer Protocols
+
+### Layers in OSI
+1. Physical layer
+2. Data link layer
+3. Network layer
+4. Transport layer
+5. Session layer
+6. Presentation layer
+7. Application layer
+
+
+
+
 
 
 
