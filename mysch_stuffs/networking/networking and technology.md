@@ -84,19 +84,21 @@ there are two types namely
 
 
 ## Network Protocols
-protocol is a set of rules and procedures or instructions that define how computers and other computing devices interact with each other,
+Protocol is a set of rules and procedures or instructions that define how computers and other computing devices interact with each other,
 
 ### Types of protocols
-Hardware Protocols
-Software Protocols
+1. Hardware Protocols
+2. Software Protocols
 
-### functions of the types of network protocols
 
-They enable communication
-They enhances security of the network
-they may support network management
+### Functions of the types of network protocols
 
-### organisations who have developed and publish some protocols
+1. They enable communication
+2. They enhances security of the network
+3. they may support network management
+
+
+### Organisations who have developed and publish some protocols
 > IEEE - Institute of Electrical and Electronic Engineers 
 >
 > IETF - Internet Engineering Task Force
