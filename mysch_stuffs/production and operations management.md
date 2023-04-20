@@ -137,7 +137,7 @@ Production system is a framework of activities within which the creation of valu
  **System Operations** involves the management of personnel ,inventory planning and control and quality assurances
  
  
-# level 3
+# Level 3
 
 ## Differentiating features of production systems
 1. Degree of Standardization
@@ -158,24 +158,56 @@ Production system is a framework of activities within which the creation of valu
 5. Simplicity
 6. Writing
 
-### steps in forcasting
-1. determine the purpose for the forcast
+### Steps in forecasting
+1. determine the purpose for the forecast
 2. Establish a time horizon
-3. Select a forcasting technique
+3. Select a forecasting technique
 4. Gather and analyse appropriate data
 5. prepare the forecast
 6. monitor the forecast
 
 
-### types of forecast
-Qualitative forcasts
+### Types of forecast
+1. Qualitative forecasts
 (`consist of the opinions of sales people or top management personnel or combine`)
-Time Series forcast
+2. Time Series forecast
 (`uses past happenings to predict future events`)
-Causal Forcast
+3. Causal Forecast
 (`identify whatever will have a cause effect relationship, example advertising`)
-Simulation
+4. Simulation
 (`use of computer based math model to pridict the future`)
+
+### Steps in decision making
+1. specification of objective
+2. development of alternative
+3. analysis and comparison of alternative
+4. selection of alternative
+5. implementing chosen decision
+6. monitoring results
+
+### Decision Environment
+1. Certainty
+2. Risk
+3. Uncertainty
+
+### General approches to decision making
+1. Quantitative Methods
+2. Analysis of Trade-offs
+3. Systems Approach
+
+### Ethical Issues in production and operation decisions
+1. worker safety
+2. product safety
+3. the environment
+4. quality decision
+5. workers right
+
+
+
+
+
+
+
 
 
 
