@@ -16,26 +16,6 @@ I am a highly motivated and skilled Flutter Developer and 3D Artist with experie
 - Video Editing
 - PHP Backend
 
-## Work Experience
-
-### <u>Flutter Developer</u>
-##### Amazing DEV, Kumasi
-##### 2021 to Date
-
-- Developed and maintained mobile applications using Flutter
-- Collaborated with cross-functional teams to design, develop, and test new features
-- Implemented UI/UX designs and animations to enhance user experience
-- Conducted code reviews and provided feedback to team members
-
-### <u>3D Artist</u>
-##### Trust Animation Studio, Accra
-##### 2021 to date
-
-- Created high-quality 3D models and animations for use in various media.
-- Designed and implemented UI/UX for 3D interfaces
-- Worked with cross-functional teams to develop and refine 3D assets
-- Provided support and troubleshooting for 3D graphics issues
-
 ## Education
 
  * **Bachelor of Technology in Accounting and Computing**
