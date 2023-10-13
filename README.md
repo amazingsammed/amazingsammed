@@ -32,6 +32,5 @@ I am a highly motivated and skilled Flutter Developer and 3D Artist with experie
 ## Contact Information
 
 - Email: **Sammedtwumasi2@gmail.com**
-- Phone: **233-543220177**
 - LinkedIn: **sammed-twumasi-71a742270**
 - instagram: **Amazing_sammed**
