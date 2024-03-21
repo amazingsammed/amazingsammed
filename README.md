@@ -9,12 +9,21 @@ I am a highly motivated and skilled Flutter Developer and 3D Artist with experie
 ## Skills
 
 - Flutter app development
+- React web development
 - 3D modeling and animation
 - UI/UX design
 - Database development
-- Git version control
 - Video Editing
 - PHP Backend
+
+## Programing languages
+- Php
+- Dart
+- HTML and CSS
+- JavaScript
+- Python
+- JSX
+- SQL
 
 ## Education
 
@@ -30,7 +39,5 @@ I am a highly motivated and skilled Flutter Developer and 3D Artist with experie
 - instagram: **Amazing_sammed**
 
 ## Contact Information
-
-- Email: **Sammedtwumasi2@gmail.com**
 - LinkedIn: **sammed-twumasi-71a742270**
 - instagram: **Amazing_sammed**
