@@ -1,10 +1,10 @@
 # Sammed
 
-Flutter Developer | 3D Artist
+FullStack Developer | 3D Artist
 
 ## Summary
 
-I am a highly motivated and skilled Flutter Developer and 3D Artist with experience in building and designing mobile applications and creating 3D models and animations. I have a strong passion for creating high-quality products that provide great user experience.
+I am a highly motivated and skilled  Developer and 3D Artist with experience in building and designing Softwares together with creating 3D models and animations. I have a strong passion for creating high-quality products that provide great user experience.
 
 ## Skills
 
@@ -14,7 +14,7 @@ I am a highly motivated and skilled Flutter Developer and 3D Artist with experie
 - UI/UX design
 - Database development
 - Video Editing
-- PHP Backend
+- Laravel
 
 ## Programing languages
 - Php
@@ -25,19 +25,4 @@ I am a highly motivated and skilled Flutter Developer and 3D Artist with experie
 - JSX
 - SQL
 
-## Education
 
- * **Bachelor of Technology in Accounting and Computing**
- * **Accounting and Computing**
- * **Kumasi Technical University**
- * **Kumasi** 
- * **2021 - Date**
-
-
-## Portfolio
-
-- instagram: **Amazing_sammed**
-
-## Contact Information
-- LinkedIn: **sammed-twumasi-71a742270**
-- instagram: **Amazing_sammed**
